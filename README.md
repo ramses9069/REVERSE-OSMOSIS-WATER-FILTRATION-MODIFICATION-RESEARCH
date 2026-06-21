@@ -14,5 +14,6 @@ Secondary contributions:
 SDG 13 (Climate Action) — Provides climate-resilient water access during droughts and sea-level rise-induced salinization.
 
 SDG 1 (No Poverty) — Reduces household expenditure on bottled water and medical costs from waterborne illness.
+THEREis a technical introductory document you can read in order to understand much better the scale of this project.(reverse osmosis technical report.pdf)
 
 ###With guidance of these SDGS  the reserch will be on them aimimg to achieve the desired goals on the project.
